@@ -7,9 +7,5 @@ contenindo adicional
 ## Subtitulo
 
 cambios realizado en rama2
-=======
-contenindo adicional
-
-## Subtitulo
 
 modificacion

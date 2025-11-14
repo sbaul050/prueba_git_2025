@@ -6,6 +6,10 @@ contenindo adicional
 
 ## Subtitulo
 
+<<<<<<< HEAD
 cambios realizado en rama2
 
 modificacion
+=======
+modificacion rama1
+>>>>>>> rama1
